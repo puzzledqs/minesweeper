@@ -9,5 +9,5 @@ Contents:
 
 Reference:
 -----------
-The skeleton of the code is extracted from [ripexz's implementation][1]. Many thanks, ripexz!
+The code skeleton is extracted from [ripexz's implementation][1]. Many thanks, ripexz!
 [1]: https://github.com/ripexz/python-tkinter-minesweeper
