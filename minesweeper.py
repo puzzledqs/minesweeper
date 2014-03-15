@@ -9,7 +9,8 @@
 #       replacing matrix convolution with explicit loops and enumerations, though.
 
 # TODO: [x] open empty, [x] timer  [3] structure the directory
-#
+# 
+# Learned: 1) how to bind events for control arrays. 2) how to set timers
 #-------------------------------------------------------------------------------
 from Tkinter import *
 import tkMessageBox
